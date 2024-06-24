@@ -16,8 +16,8 @@ public data=[
     fee: 15000
   },
   {
-    name:"Mahendra",
-    age:25
+    name:"Roopa",
+    age:30
   }
 ]
  public message:any
@@ -27,5 +27,3 @@ this.message=e
 
 
 }
-
-
