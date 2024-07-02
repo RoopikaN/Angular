@@ -12,10 +12,10 @@ const routes: Routes = [
     path: "",
     component: DashboardComponent
   },
-  // {
-  //   path: "country",
-  //   component:CountryApiComponent
-  // },
+  {
+    path: "country",
+    component:CountryApiComponent
+  },
   {
     path: "home",
     component:HomepageComponent
@@ -28,10 +28,10 @@ const routes: Routes = [
     path: "about",
     component: AboutComponents
   },
-  // {
-  //   path: "faq",
-  //   component:FaqComponent
-  // }
+  {
+    path: "faq",
+    component:FaqComponent
+  }
  
 
 ];

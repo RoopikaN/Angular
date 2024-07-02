@@ -25,12 +25,12 @@ export class FaqComponent {
 
     },
     {
-      question: "What is CSS?",
+      question: " CSS?",
       answer: "CSS, or Cascading Style Sheets, is the language used to style and enhance HTML documents. It defines the presentation of HTML elements on a web page, enabling changes to fonts, colors, sizes, spacing, column layouts, and animations.",
       expanded: false
     },
     {
-      question: "What is JavaScript",
+      question: "JavaScript",
       answer: "JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)",
       expanded: false
     }

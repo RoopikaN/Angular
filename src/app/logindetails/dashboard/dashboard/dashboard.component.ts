@@ -98,11 +98,11 @@ openDialog(){
 public data=[
   {
     name: "Angular",
-    fee: 15000
+    fee: 18000
   },
   {
-    name:"Roopa",
-    age:30
+    name:"roopa",
+    age:25
   }
 ]
  public message:any

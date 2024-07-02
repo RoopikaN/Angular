@@ -11,10 +11,10 @@ export class HeaderComponent {
 
   constructor(private dialog: MatDialog) {}
 
-  // openChangePassword() {
-  //   this.dialog.open(ChangePasswordComponent, {
-  //     width: '400px'
-  //   });
-  // }
+  openChangePassword() {
+    this.dialog.open(ChangePasswordComponent, {
+      width: '400px'
+    });
+  }
   
 }
